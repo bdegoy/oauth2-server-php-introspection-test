@@ -1,8 +1,8 @@
 <?php
 
-$dsn      = 'mysql:dbname=o2spdnc_data;host=localhost';
-$username = 'o2spdnc_user';
-$password = 'o2dnY10CWrB9!';
+$dsn      = 'mysql:dbname=xxx;host=localhost';
+$username = 'xxx';
+$password = 'xxx';
 
 // error reporting (this is a demo, after all!)
 ini_set('display_errors',1);error_reporting(E_ALL);
