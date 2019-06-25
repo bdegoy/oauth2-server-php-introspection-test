@@ -1,10 +1,4 @@
-oauth2-server-php
+oauth2-server-php-introspection-test
 =================
-
-[![Build Status](https://travis-ci.org/bshaffer/oauth2-server-php.svg?branch=master)](https://travis-ci.org/bshaffer/oauth2-server-php)
-
-[![Total Downloads](https://poser.pugx.org/bshaffer/oauth2-server-php/downloads.png)](https://packagist.org/packages/bshaffer/oauth2-server-php)
-
-View the [complete documentation](https://bshaffer.github.io/oauth2-server-php-docs/)
-
-The purpose of this fork is to implement introspection.
+Test for introspection branch of oauth2-server-php https://github.com/bdegoy/oauth2-server-php/tree/introspection
+The purpose of this fork is to implement introspection in Brent Shaffer's oauth2-server-php library.
