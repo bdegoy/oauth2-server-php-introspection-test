@@ -20,6 +20,7 @@ $config = array(
     'issuer' => 'o2sp.dnc.global',
     'use_jwt_access_tokens' => false,
     'token_param_name' => 'token',   // rfc7662 Section 2.1.
+	'check_client_ip_mask' => '255.255.255.0',  
 );
 
 // Create the server
